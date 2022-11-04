@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Useful Commands](README.md)
 * [Configurations](configurations.md)
+* [Useful Commands](useful-commands.md)
